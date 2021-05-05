@@ -1,0 +1,15 @@
+autopy-4.0.0.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+autopy-4.0.0.dist-info/METADATA,sha256=GnwVYfI4Y-E2-L8_e3Won6UkfpK2XOaXEVHiMbaziFc,9860
+autopy-4.0.0.dist-info/RECORD,,
+autopy-4.0.0.dist-info/WHEEL,sha256=bMGJzfnzmODnc7070hP_ZkCsY-cmPTWm8nY09-AXKjI,111
+autopy-4.0.0.dist-info/top_level.txt,sha256=XZwopO5i8LsCkf3cJbCQeQLMiBD7XwTozpS9kMDQ_N4,7
+autopy/.libs/libXi-4d5ffb2e.so.6.1.0,sha256=6LcCxX8hWc2qBNyBnvqbkGaEGWfDPGpqQG67_yNqDoo,68416
+autopy/.libs/libXtst-c71b5a0e.so.6.1.0,sha256=-za8Cjs_k0KmaZADFIw6ENJswJ4SnRq7lcLUp6aambc,29872
+autopy/__init__.py,sha256=sJwurTjKAJWEvrOJaKm3CrK0q4hJFStq61_9Q0x5qus,277
+autopy/__pycache__/__init__.cpython-38.pyc,,
+autopy/alert.cpython-38-x86_64-linux-gnu.so,sha256=lksbh5k-VjF9WQCxzcTHeof9GpF1eG_ObCFFJNaNZBw,4411600
+autopy/bitmap.cpython-38-x86_64-linux-gnu.so,sha256=lksbh5k-VjF9WQCxzcTHeof9GpF1eG_ObCFFJNaNZBw,4411600
+autopy/color.cpython-38-x86_64-linux-gnu.so,sha256=lksbh5k-VjF9WQCxzcTHeof9GpF1eG_ObCFFJNaNZBw,4411600
+autopy/key.cpython-38-x86_64-linux-gnu.so,sha256=lksbh5k-VjF9WQCxzcTHeof9GpF1eG_ObCFFJNaNZBw,4411600
+autopy/mouse.cpython-38-x86_64-linux-gnu.so,sha256=lksbh5k-VjF9WQCxzcTHeof9GpF1eG_ObCFFJNaNZBw,4411600
+autopy/screen.cpython-38-x86_64-linux-gnu.so,sha256=lksbh5k-VjF9WQCxzcTHeof9GpF1eG_ObCFFJNaNZBw,4411600

@@ -1,0 +1,10 @@
+six
+beautifulsoup4
+unittest2
+pyquery
+autopy
+setuptools
+
+[test]
+ipython
+plone.testing
